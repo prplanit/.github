@@ -4,8 +4,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=The+Real+World;Requires+Real+Results...;You+Have+Real+Expectations;Precision+Plan+IT" alt="Typing SVG" />
 
-[![Docker Hub](https://img.shields.io/badge/prplanit-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/prplanit)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.prplanit.com/precisionplanit)
+[![PrPlanIT GitHub](https://img.shields.io/badge/PrPlanIT-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrPlanIT)
+[![HomeLabHD GitHub](https://img.shields.io/badge/HomeLabHD-181717?style=flat&logo=github&logoColor=white)](https://github.com/HomeLabHD)
+[![PrPlanIT GitLab](https://img.shields.io/badge/PrPlanIT-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.prplanit.com/PrPlanIT)
+[![HomeLabHD GitLab](https://img.shields.io/badge/HomeLabHD-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.prplanit.com/PrPlanIT/HomeLabHD)
+[![prplanit Docker](https://img.shields.io/badge/prplanit-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/prplanit)
+[![hlhd Docker](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd)
+[![donate](https://img.shields.io/badge/donate-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/sofmeright)
+[![sponsor](https://img.shields.io/badge/sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/PrPlanIT)
 
 </div>
 
@@ -52,7 +58,7 @@
 <tr>
 <td width="50%">
 
-#### [StageFreight](https://github.com/sofmeright/stagefreight)
+#### [StageFreight](https://github.com/PrPlanIT/StageFreight)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -65,7 +71,7 @@
 </td>
 <td width="50%">
 
-#### [HASteward](https://github.com/sofmeright/hasteward)
+#### [HASteward](https://github.com/PrPlanIT/HASteward)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
@@ -80,7 +86,7 @@
 <tr>
 <td width="50%">
 
-#### [Fairer-Pages](https://github.com/sofmeright/fairer-pages)
+#### [Fairer-Pages](https://github.com/PrPlanIT/fairer-pages)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Custom error and default page server** for Gateway API / reverse proxy environments.
@@ -92,9 +98,9 @@
 </td>
 <td width="50%">
 
-#### [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard)
+#### [VirtualDisplayDriver_Wizard](https://github.com/PrPlanIT/VirtualDisplayDriver_Wizard)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white)
-![Stars](https://img.shields.io/github/stars/sofmeright/VirtualDisplayDriver_Wizard?style=social)
+![Stars](https://img.shields.io/github/stars/PrPlanIT/VirtualDisplayDriver_Wizard?style=social)
 
 **AutoHotkey GUI** for Indirect Display Driver management. Integrates with Sunshine for remote gaming/desktop streaming.
 
@@ -107,10 +113,10 @@
 <tr>
 <td width="50%">
 
-#### [DD-UI](https://github.com/sofmeright/DD-UI)
+#### [DD-UI](https://github.com/PrPlanIT/DD-UI)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Stars](https://img.shields.io/github/stars/sofmeright/DD-UI?style=social)
+![Stars](https://img.shields.io/github/stars/PrPlanIT/DD-UI?style=social)
 
 **Declarative, security-first Docker orchestration engine.**
 
@@ -123,9 +129,9 @@
 </td>
 <td width="50%">
 
-#### [PVE_Ceph-Disaster_Recovery](https://github.com/sofmeright/PVE_Ceph-Disaster_Recovery)
+#### [PVE_Ceph-Disaster_Recovery](https://github.com/HomeLabHD/PVE_Ceph-Disaster_Recovery)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Stars](https://img.shields.io/github/stars/sofmeright/PVE_Ceph-Disaster_Recovery?style=social)
+![Stars](https://img.shields.io/github/stars/HomeLabHD/PVE_Ceph-Disaster_Recovery?style=social)
 
 **Shell-based recovery** for Ceph monitor stores when your Proxmox cluster has lost all monitors.
 
@@ -141,28 +147,21 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-#### [ansible-oci](https://github.com/sofmeright/ansible-oci)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
-
-Ansible, Python, collections — the whole orchestra. Containerized playbook runner for CI and automation.
-
-</td>
-<td width="33%">
-
-#### [nginx-extras-oci](https://github.com/sofmeright/nginx-extras-oci)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
-
-Custom NGINX build with extra modules for enhanced reverse proxy and web serving.
-
-</td>
-<td width="33%">
-
-#### [oh-ci](https://github.com/prplanit/oh-ci)
+#### [oh-ci](https://github.com/PrPlanIT/oh-ci)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
 
 Minimal CI/automation image. bash, coreutils, curl, git, jq, envsubst, and a Pokémon.
+
+</td>
+<td width="50%">
+
+#### HomeLab Helpdesk Catalog
+[![HomeLabHD](https://img.shields.io/badge/HomeLabHD-181717?style=flat&logo=github&logoColor=white)](https://github.com/HomeLabHD)
+[![Docker Hub](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd)
+
+Community container images for homelab and CI — [apt-cacher-ng](https://github.com/HomeLabHD/apt-cacher-ng), [ansible](https://github.com/HomeLabHD/ansible), [nginx-extras](https://github.com/HomeLabHD/nginx-extras), [ark-se-server](https://github.com/HomeLabHD/ark-se-server), and more.
 
 </td>
 </tr>
@@ -175,14 +174,6 @@ Minimal CI/automation image. bash, coreutils, curl, git, jq, envsubst, and a Pok
 - Fork the repository
 - Submit Pull Requests / Merge Requests
 - Open issues with ideas, bugs, or feature requests
-
----
-
-## Support / Sponsorship
-
-As of 2026, PrecisionPlanIT has not generated revenue from any of its associated projects. Please feel no obligation whatsoever, but if you do want to help support our projects and production environment costs we do provide this link to do so:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sofmeright)
 
 ---
 
