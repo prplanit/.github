@@ -40,27 +40,21 @@
 <td width="50%">
 
 #### [StageFreight](https://github.com/PrPlanIT/StageFreight)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Declarative CI/CD engine** for container images. Detect, build, scan, sign, and release — driven by a single `.stagefreight.yml` manifest.
 
-- Multi-registry publishing with tag policies
-- Retention, README sync, release badges
-- GitLab CI component available
+![](https://img.shields.io/badge/Multi--registry_publishing-555?style=flat) ![](https://img.shields.io/badge/Tag_policies_&_retention-555?style=flat) ![](https://img.shields.io/badge/README_sync_&_release_badges-555?style=flat) ![](https://img.shields.io/badge/GitLab_CI_component-555?style=flat)
 
 </td>
 <td width="50%">
 
 #### [HASteward](https://github.com/PrPlanIT/HASteward)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **High Availability Steward** for stateful database services. Triage, repair, backup, and restore — safely.
 
-- Engines: CloudNativePG (PostgreSQL), Galera (MariaDB)
-- Escrow backups before repair, restic-backed
-- Runs as a K8s Job, no cluster privileges required
+![](https://img.shields.io/badge/CloudNativePG_(PostgreSQL)-555?style=flat) ![](https://img.shields.io/badge/Galera_(MariaDB)-555?style=flat) ![](https://img.shields.io/badge/Escrow_backups,_restic--backed-555?style=flat) ![](https://img.shields.io/badge/K8s_Job,_no_cluster_privs-555?style=flat)
 
 </td>
 </tr>
@@ -72,22 +66,17 @@
 
 **Custom error and default page server** for Gateway API / reverse proxy environments.
 
-- Serves branded error pages (404, 502, etc.)
-- Catch-all HTTPRoute fallback across gateways
-- Lightweight, single binary
+![](https://img.shields.io/badge/Branded_error_pages_(404,_502)-555?style=flat) ![](https://img.shields.io/badge/Catch--all_HTTPRoute_fallback-555?style=flat) ![](https://img.shields.io/badge/Lightweight,_single_binary-555?style=flat)
 
 </td>
 <td width="50%">
 
 #### [VirtualDisplayDriver_Wizard](https://github.com/PrPlanIT/VirtualDisplayDriver_Wizard)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white)
-![Stars](https://img.shields.io/github/stars/PrPlanIT/VirtualDisplayDriver_Wizard?style=social)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/VirtualDisplayDriver_Wizard?style=social)
 
 **AutoHotkey GUI** for Indirect Display Driver management. Integrates with Sunshine for remote gaming/desktop streaming.
 
-- One-click install/uninstall/reload
-- Driver configuration management
-- Virtual display setup for headless hosts
+![](https://img.shields.io/badge/One--click_Install%2FUninstall%2FReload-555?style=flat) ![](https://img.shields.io/badge/Driver_config_management-555?style=flat) ![](https://img.shields.io/badge/Virtual_display_setups-555?style=flat)
 
 </td>
 </tr>
@@ -95,30 +84,21 @@
 <td width="50%">
 
 #### [DD-UI](https://github.com/PrPlanIT/DD-UI)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Stars](https://img.shields.io/github/stars/PrPlanIT/DD-UI?style=social)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Stars](https://img.shields.io/github/stars/PrPlanIT/DD-UI?style=social)
 
-**Declarative, security-first Docker orchestration engine.**
+**Declarative, security-first Docker orchestration engine.** *"Sometimes you need someone else to take the wheel... Please Docker responsibly."*
 
-*"Sometimes you need someone else to take the wheel... Please Docker responsibly."*
-
-- Declarative configuration
-- Security-first architecture
-- Simplified container management
+![](https://img.shields.io/badge/Declarative_configuration-555?style=flat) ![](https://img.shields.io/badge/Security--first_architecture-555?style=flat) ![](https://img.shields.io/badge/Simplified_container_mgmt-555?style=flat)
 
 </td>
 <td width="50%">
 
 #### [PVE_Ceph-Disaster_Recovery](https://github.com/HomeLabHD/PVE_Ceph-Disaster_Recovery)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Stars](https://img.shields.io/github/stars/HomeLabHD/PVE_Ceph-Disaster_Recovery?style=social)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Stars](https://img.shields.io/github/stars/HomeLabHD/PVE_Ceph-Disaster_Recovery?style=social)
 
 **Shell-based recovery** for Ceph monitor stores when your Proxmox cluster has lost all monitors.
 
-- Restore monitor quorum from OSDs
-- Automated disaster recovery process
-- Battle-tested on production clusters
+![](https://img.shields.io/badge/Restore_monitor_quorum_from_OSDs-555?style=flat) ![](https://img.shields.io/badge/Automated_disaster_recovery-555?style=flat) ![](https://img.shields.io/badge/Battle--tested_on_production-555?style=flat)
 
 </td>
 </tr>
@@ -139,8 +119,7 @@ Minimal CI/automation image. bash, coreutils, curl, git, jq, envsubst, and a Pok
 <td width="50%">
 
 #### HomeLab Helpdesk Catalog
-[![HomeLabHD](https://img.shields.io/badge/HomeLabHD-181717?style=flat&logo=github&logoColor=white)](https://github.com/HomeLabHD)
-[![Docker Hub](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd)
+[![HomeLabHD](https://img.shields.io/badge/HomeLabHD-181717?style=flat&logo=github&logoColor=white)](https://github.com/HomeLabHD) [![Docker Hub](https://img.shields.io/badge/hlhd-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/hlhd)
 
 Community container images for homelab and CI — [apt-cacher-ng](https://github.com/HomeLabHD/apt-cacher-ng), [ansible](https://github.com/HomeLabHD/ansible), [nginx-extras](https://github.com/HomeLabHD/nginx-extras), [ark-se-server](https://github.com/HomeLabHD/ark-se-server), and more.
 
