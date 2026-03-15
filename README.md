@@ -43,10 +43,16 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Monitoring
+### Monitoring & Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Thanos](https://img.shields.io/badge/Thanos-6D41FF?style=for-the-badge&logo=prometheus&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logoColor=white)
+![Alloy](https://img.shields.io/badge/Alloy-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Gatus](https://img.shields.io/badge/Gatus-46A758?style=for-the-badge&logoColor=white)
+
+### Registries & Artifacts
+![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 
 ---
 
